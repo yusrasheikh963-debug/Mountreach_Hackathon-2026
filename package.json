@@ -1,0 +1,23 @@
+{
+  "name": "careernova-ai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "framer-motion": "^13.1.0",
+    "lucide-react": "^1.31.0",
+    "mammoth": "latest",
+    "pdfjs-dist": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^7.18.2",
+    "recharts": "^3.10.1",
+    "vite": "latest"
+  }
+}
